@@ -1,0 +1,6 @@
+---
+applications:
+- name: test-java-app
+  path: ../target/cf-test-app-1.0.0.RELEASE.jar
+  memory: 1GB
+  no-route: true
